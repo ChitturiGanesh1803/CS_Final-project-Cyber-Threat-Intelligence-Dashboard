@@ -1,4 +1,4 @@
-PhishShield Pro 🛡️
+Cyber Threat Intelligence Dashboard 🛡️
 =================
 
 PhishShield Pro is a phishing URL detection web application built using Streamlit.  
